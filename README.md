@@ -1,5 +1,5 @@
-Hello it's me, Tarmoboy! Welcome to my GitHub page, there is at least something to see in here! 💪🏾
+Hello it's me, Tarmoboy! Welcome to my GitHub page! 👋🏾
 
-I am very interested in learning more about programming and computer science in general. 😎
+I'm constantly learning and exploring new ideas. My goal is to fill this page with exciting projects, programs and insights that others can enjoy and learn from. 🚀
 
-I hope some day this page will have a lot more things, programs, ideas, or anything fascinating for others to see and enjoy! 😇
+Feel free to explore the repositories, and if you find something interesting or have any questions, don't hesitate to reach out! 😇
