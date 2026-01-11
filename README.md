@@ -1,4 +1,4 @@
-Hello it's me, Tarmoboy! Welcome to my GitHub page! 👋🏾
+Hello it's me, Tarmoboy! Welcome to my GitHub page! 👋🏽
 
 I'm constantly learning and exploring new ideas. My goal is to fill this page with exciting projects, programs and insights that others can enjoy and learn from. 🚀
 
